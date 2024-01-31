@@ -81,7 +81,7 @@ const questions = [
         ]
     },
     {
-        question: "Who was the first president of Kenya?",
+        question: "Who is the current deputy president of Kenya?",
         answers: [
             { text: "Oginga Odinga", correct: false},
             { text: "Mwai Kibaki", correct: false},
