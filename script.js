@@ -83,10 +83,10 @@ const questions = [
     {
         question: "Who is the current deputy president of Kenya?",
         answers: [
-            { text: "Oginga Odinga", correct: false},
-            { text: "Mwai Kibaki", correct: false},
-            { text: "Jomo Kenyatta", correct: true},
-            { text: "Arap Samoei", correct: false},
+            { text: "Musalia Mudavadi", correct: false},
+            { text: "Mike Sonko", correct: false},
+            { text: "Rigathi Gachagua", correct: true},
+            { text: "Kalonzo Musyoka", correct: false},
         ]
     }
 ];
