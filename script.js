@@ -72,7 +72,7 @@ const questions = [
         ]
     },
     {
-        question: "Who was the first president of Kenya?",
+        question: "Who is the cabinet secretary of Education?",
         answers: [
             { text: "Oginga Odinga", correct: false},
             { text: "Mwai Kibaki", correct: false},
