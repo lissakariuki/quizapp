@@ -63,7 +63,7 @@ const questions = [
         ]
     },
     {
-        question: "Who was the first president of Kenya?",
+        question: "In which Year did Kenya gain its Independence?",
         answers: [
             { text: "William Ruto", correct: false},
             { text: "Raila Odinga", correct: true},
