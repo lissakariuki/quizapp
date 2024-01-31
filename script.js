@@ -66,7 +66,7 @@ const questions = [
         question: "In which Year did Kenya gain its Independence?",
         answers: [
             { text: "1980", correct: false},
-            { text: "Raila Odinga", correct: true},
+            { text: "1963", correct: true},
             { text: "Uhuru Kenyatta", correct: false},
             { text: "Jomo Kenyatta", correct: false},
         ]
