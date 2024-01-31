@@ -56,9 +56,9 @@ const questions = [
     {
         question: "Which county among the following is the capital city of Kenya?",
         answers: [
-            { text: "Oginga Odinga", correct: false},
-            { text: "Mwai Kibaki", correct: false},
-            { text: "Jomo Kenyatta", correct: true},
+            { text: "Mombasa", correct: false},
+            { text: "Nakuru", correct: false},
+            { text: "Nairobi", correct: true},
             { text: "Arap Samoei", correct: false},
         ]
     },
