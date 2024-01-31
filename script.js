@@ -54,7 +54,7 @@ const questions = [
         ]
     },
     {
-        question: "Who was the first president of Kenya?",
+        question: "Which county among the following is the capital city of Kenya?",
         answers: [
             { text: "Oginga Odinga", correct: false},
             { text: "Mwai Kibaki", correct: false},
