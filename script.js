@@ -68,7 +68,7 @@ const questions = [
             { text: "1980", correct: false},
             { text: "1963", correct: true},
             { text: "1961", correct: false},
-            { text: "Jomo Kenyatta", correct: false},
+            { text: "1962", correct: false},
         ]
     },
     {
