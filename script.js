@@ -76,7 +76,7 @@ const questions = [
         answers: [
             { text: "Fred Matiangí", correct: false},
             { text: "Kithure Kindiki", correct: false},
-            { text: "Jomo Kenyatta", correct: true},
+            { text: "Ezekiel Machogu", correct: true},
             { text: "Arap Samoei", correct: false},
         ]
     },
