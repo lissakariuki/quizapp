@@ -45,11 +45,11 @@ const questions = [
         ]
     },
     {
-        question: "Who was the first president of Kenya?",
+        question: "Who among the following has not been a Kenyan president?",
         answers: [
             { text: "Oginga Odinga", correct: false},
             { text: "Mwai Kibaki", correct: false},
-            { text: "Jomo Kenyatta", correct: true},
+            { text: "Jomo Kenyatta", correct: },
             { text: "Arap Samoei", correct: false},
         ]
     },
@@ -65,10 +65,10 @@ const questions = [
     {
         question: "Who was the first president of Kenya?",
         answers: [
-            { text: "Oginga Odinga", correct: false},
-            { text: "Mwai Kibaki", correct: false},
-            { text: "Jomo Kenyatta", correct: true},
-            { text: "Arap Samoei", correct: false},
+            { text: "William Ruto", correct: false},
+            { text: "Raila Odinga", correct: true},
+            { text: "Uhuru Kenyatta", correct: false},
+            { text: "Jomo Kenyatta", correct: false},
         ]
     },
     {
