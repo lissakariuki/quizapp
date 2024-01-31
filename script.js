@@ -59,7 +59,7 @@ const questions = [
             { text: "Mombasa", correct: false},
             { text: "Nakuru", correct: false},
             { text: "Nairobi", correct: true},
-            { text: "Arap Samoei", correct: false},
+            { text: "Machakos", correct: false},
         ]
     },
     {
