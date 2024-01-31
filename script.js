@@ -74,8 +74,8 @@ const questions = [
     {
         question: "Who is the cabinet secretary of Education?",
         answers: [
-            { text: "Oginga Odinga", correct: false},
-            { text: "Mwai Kibaki", correct: false},
+            { text: "Fred Matiangí", correct: false},
+            { text: "", correct: false},
             { text: "Jomo Kenyatta", correct: true},
             { text: "Arap Samoei", correct: false},
         ]
