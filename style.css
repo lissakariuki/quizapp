@@ -5,10 +5,10 @@
     box-sizing: border-box;
 }
 body{
-    background:
+    background:  #f4f7fb;
 }
 .app{
-    background: ;
+    background: rgb(rgb(0, 255, 26), rgb(102, 128, 0), rgb(106, 255, 0));
     width: 90%;
     max-width: 600px;
     margin: 100px auto 0;
@@ -27,7 +27,7 @@ body{
 }
 .quiz h2{
     font-size: 18px;
-    color:;
+    color:#fff;
     font-weight: 600;
 }
 .btn{
