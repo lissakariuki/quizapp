@@ -36,12 +36,12 @@ const questions = [
         ]
     },
     {
-        question: "Who was the first president of Kenya?",
+        question: "Which color is not in the Kenyan flag?",
         answers: [
-            { text: "Oginga Odinga", correct: false},
-            { text: "Mwai Kibaki", correct: false},
-            { text: "Jomo Kenyatta", correct: true},
-            { text: "Arap Samoei", correct: false},
+            { text: "Black", correct: false},
+            { text: "Red", correct: false},
+            { text: "Yellow", correct: true},
+            { text: "Green", correct: false},
         ]
     },
     {
