@@ -11,9 +11,9 @@ const questions = [
     {
         question: "What is Kenya best known for?",
         answers: [
-            { text: "Tourism", correct: false},
+            { text: "Tourism", correct: true},
             { text: "Trade", correct: false},
-            { text: "Sports", correct: true},
+            { text: "Sports", correct: false},
             { text: "None of the above", correct: false},
         ]
     },,
@@ -22,7 +22,16 @@ const questions = [
         answers: [
             { text: "Sports", correct: false},
             { text: "Foreign affairs", correct: false},
-            { text: "Education", correct: false,
+            { text: "Education", correct: false},
+            { text: "Banking", correct: true},
+        ]
+    },
+    {
+        question: "Which of the following countries are not part of the COMESA?",
+        answers: [
+            { text: "Uganda", correct: false},
+            { text: "Foreign affairs", correct: false},
+            { text: "Education", correct: false},
             { text: "Banking", correct: true},
         ]
     },
