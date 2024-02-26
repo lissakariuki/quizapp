@@ -30,9 +30,9 @@ const questions = [
         question: "Which of the following countries are not part of the COMESA?",
         answers: [
             { text: "Uganda", correct: false},
-            { text: "Foreign affairs", correct: false},
-            { text: "Education", correct: false},
-            { text: "Banking", correct: true},
+            { text: "Kenya", correct: false},
+            { text: "Ethiopia", correct: false},
+            { text: "South Africa", correct: true},
         ]
     },
     {
