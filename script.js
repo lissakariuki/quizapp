@@ -16,7 +16,7 @@ const questions = [
             { text: "Sports", correct: false},
             { text: "None of the above", correct: false},
         ]
-    },,
+    },
     {
         question: "Which of the following is not a ministry in Kenya?",
         answers: [
