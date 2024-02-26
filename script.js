@@ -22,8 +22,8 @@ const questions = [
         answers: [
             { text: "Sports", correct: false},
             { text: "Foreign affairs", correct: false},
-            { text: "Education", correct: true},
-            { text: "Banking", correct: false},
+            { text: "Education", correct: false,
+            { text: "Banking", correct: true},
         ]
     },
     {
@@ -40,7 +40,7 @@ const questions = [
         answers: [
             { text: "Black", correct: false},
             { text: "Red", correct: false},
-            { text: "Yellow", correct: true},
+            { text: "Blue", correct: true},
             { text: "Green", correct: false},
         ]
     },
