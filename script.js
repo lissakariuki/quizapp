@@ -14,7 +14,7 @@ const questions = [
             { text: "Tourism", correct: true},
             { text: "Trade", correct: false},
             { text: "Sports", correct: false},
-            { text: "None of the above", correct: false},
+            { texe: "Jobs", correct: false},
         ]
     },
     {
