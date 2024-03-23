@@ -56,9 +56,9 @@ const questions = [
     {
         question: "Who among the following has not been a Kenyan president?",
         answers: [
-            { text: "Oginga Odinga", correct: false},
+            { text: "Oginga Odinga", correct: true},
             { text: "Mwai Kibaki", correct: false},
-            { text: "Jomo Kenyatta", correct: },
+            { text: "Jomo Kenyatta", correct: false},
             { text: "Arap Samoei", correct: false},
         ]
     },
@@ -90,13 +90,12 @@ const questions = [
         ]
     },
     {
-        question: "What is the name of the highest mountain in Kenya?"',
+        question: "What is the name of the highest mountain in Kenya?",
         answers: [
            { text: "Mount Kenya", correct: true}, 
            {text: "Mount Longonot", correct: false},
            {text: "Mount Elgon", correct: false},
-
-        
+           {text: "Mount Kinangop", correct: false},
         ]
     },
     {
