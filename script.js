@@ -90,6 +90,10 @@ const questions = [
         ]
     },
     {
+        question: "What is the name of the highest mountain in Kenya?"',
+        answers
+    },
+    {
         question: "Who is the current deputy president of Kenya?",
         answers: [
             { text: "Musalia Mudavadi", correct: false},
