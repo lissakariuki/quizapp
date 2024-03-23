@@ -92,8 +92,9 @@ const questions = [
     {
         question: "What is the name of the highest mountain in Kenya?"',
         answers: [
-           { text: "Mount Kenya", correct: false}, 
-           
+           { text: "Mount Kenya", correct: true}, 
+           {text: "Mount Longonot", correct: false},
+           {text
         ]
     },
     {
