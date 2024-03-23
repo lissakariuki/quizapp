@@ -94,7 +94,9 @@ const questions = [
         answers: [
            { text: "Mount Kenya", correct: true}, 
            {text: "Mount Longonot", correct: false},
-           {text
+           {text: "Mount Elgon", correct: false},
+
+        
         ]
     },
     {
