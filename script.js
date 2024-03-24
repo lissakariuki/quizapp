@@ -125,6 +125,15 @@ const questions = [
             { text: "Nilotes, Swahili, Bantus", correct: false},
         ]
     },
+    {
+        question: "Which  pandemic affected most parts of the world and less to loss ogf many livesYear did Kenya gain its Independence?",
+        answers: [
+            { text: "1980", correct: false},
+            { text: "1963", correct: true},
+            { text: "1961", correct: false},
+            { text: "1962", correct: false},
+        ]
+    },
 ];
 
 const questionElement = document.getElementById("question");
