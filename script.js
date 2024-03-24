@@ -107,6 +107,15 @@ const questions = [
             { text: "Kalonzo Musyoka", correct: false},
         ]
     }
+    {
+        question: "Who is the current deputy president of Kenya?",
+        answers: [
+            { text: "Musalia Mudavadi", correct: false},
+            { text: "Mike Sonko", correct: false},
+            { text: "Rigathi Gachagua", correct: true},
+            { text: "Kalonzo Musyoka", correct: false},
+        ]
+    }
 ];
 
 const questionElement = document.getElementById("question");
