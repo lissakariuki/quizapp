@@ -126,7 +126,7 @@ const questions = [
         ]
     },
     {
-        question: "Which  pandemic affected most parts of the world and less to loss ogf many livesYear did Kenya gain its Independence?",
+        question: "Which  pandemic affected most parts of the world and less to loss of many lives?",
         answers: [
             { text: "1980", correct: false},
             { text: "1963", correct: true},
