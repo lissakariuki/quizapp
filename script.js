@@ -83,10 +83,10 @@ const questions = [
     {
         question: "In which Year did Kenya become a republic?",
         answers: [
-            { text: "1980", correct: false},
-            { text: "1963", correct: true},
-            { text: "1961", correct: false},
-            { text: "1962", correct: false},
+            { text: "1945", correct: false},
+            { text: "1964", correct: true},
+            { text: "1963", correct: false},
+            { text: "1960", correct: false},
         ]
     },
     {
