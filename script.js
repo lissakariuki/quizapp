@@ -108,9 +108,9 @@ const questions = [
         ]
     },
     {
-        question: "Which of the following comprises of the three main communities/ in Kenya?",
+        question: "Which of the following comprises of the three main communities/language speakers in Kenya?",
         answers: [
-            { text: "Musalia Mudavadi", correct: false},
+            { text: "Bantus, Americans, Abaluhya", correct: false},
             { text: "Mike Sonko", correct: false},
             { text: "Rigathi Gachagua", correct: true},
             { text: "Kalonzo Musyoka", correct: false},
