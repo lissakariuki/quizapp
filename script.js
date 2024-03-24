@@ -120,8 +120,8 @@ const questions = [
         question: "Which of the following comprises of the three main communities/language speakers in Kenya?",
         answers: [
             { text: "Bantus, Americans, Abaluhya", correct: false},
-            { text: "Bantus, Nilotes, Cushites", correct: false},
-            { text: "Swahili,English", correct: true},
+            { text: "Bantus, Nilotes, Cushites", correct: true},
+            { text: "Swahili,English", correct: false},
             { text: "Nilotes, Swahili, Bantus", correct: false},
         ]
     },
