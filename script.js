@@ -81,6 +81,15 @@ const questions = [
         ]
     },
     {
+        question: "In which Year did Kenya gain its Independence?",
+        answers: [
+            { text: "1980", correct: false},
+            { text: "1963", correct: true},
+            { text: "1961", correct: false},
+            { text: "1962", correct: false},
+        ]
+    },
+    {
         question: "Who is the cabinet secretary of Education?",
         answers: [
             { text: "Fred Matiangí", correct: false},
