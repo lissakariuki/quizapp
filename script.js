@@ -108,7 +108,7 @@ const questions = [
         ]
     },
     {
-        question: "Which of the following comprises of the three main communities/ in Kenya? is the current deputy president of Kenya?",
+        question: "Which of the following comprises of the three main communities/ in Kenya?",
         answers: [
             { text: "Musalia Mudavadi", correct: false},
             { text: "Mike Sonko", correct: false},
