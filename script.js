@@ -128,10 +128,10 @@ const questions = [
     {
         question: "Which  pandemic affected most parts of the world and led to the loss of many lives?",
         answers: [
-            { text: "Covid-19", correct: false},
+            { text: "Covid-19", correct: true},
             { text: "Small pox", correct: true},
-            { text: "1961", correct: false},
-            { text: "1962", correct: false},
+            { text: "Terrorism", correct: false},
+            { text: "Malaria", correct: false},
         ]
     },
 ];
