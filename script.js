@@ -81,7 +81,7 @@ const questions = [
         ]
     },
     {
-        question: "In which Year did Kenya gain its Independence?",
+        question: "In which Year did Kenya become a republic?",
         answers: [
             { text: "1980", correct: false},
             { text: "1963", correct: true},
