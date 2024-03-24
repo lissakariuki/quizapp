@@ -106,7 +106,7 @@ const questions = [
             { text: "Rigathi Gachagua", correct: true},
             { text: "Kalonzo Musyoka", correct: false},
         ]
-    }
+    },
     {
         question: "Who is the current deputy president of Kenya?",
         answers: [
@@ -115,7 +115,7 @@ const questions = [
             { text: "Rigathi Gachagua", correct: true},
             { text: "Kalonzo Musyoka", correct: false},
         ]
-    }
+    },
 ];
 
 const questionElement = document.getElementById("question");
