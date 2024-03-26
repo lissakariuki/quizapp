@@ -121,7 +121,7 @@ const questions = [
         answers: [
             { text: "Bantus, Americans, Abaluhya", correct: false},
             { text: "Bantus, Nilotes, Cushites", correct: true},
-            { text: "Swahili,English", correct: false},
+            { text: "Swahili, English, Kikuyu ", correct: false},
             { text: "Nilotes, Swahili, Bantus", correct: false},
         ]
     },
