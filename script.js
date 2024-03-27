@@ -140,7 +140,7 @@ const questions = [
             { text: "Executive", correct: },
             { text: "Legislature", correct: },
             { text: "Parliament", correct: },
-            { text: "", correct: },
+            { text: "Judiciary", correct: },
         ]
     },
 ];
