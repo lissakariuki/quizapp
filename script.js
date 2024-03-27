@@ -144,7 +144,7 @@ const questions = [
         ]
     },
     {
-        question: "Which of the following  is not among the three arms of the government of Kenya?",
+        question: "Which of the following is not among the Major lakes in the country?",
         answers: [
             { text: "Executive", correct: },
             { text: "Legislature", correct: },
