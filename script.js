@@ -148,7 +148,7 @@ const questions = [
         answers: [
             { text: "Lake Naivasha", correct: false},
             { text: "Lake Elementaita", correct: false},
-            { text: "Parliament", correct: },
+            { text: "Lake Malawi", correct: },
             { text: "Lake Nakuru", correct: },
         ]
     },
