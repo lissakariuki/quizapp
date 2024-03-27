@@ -135,7 +135,7 @@ const questions = [
         ]
     },
     {
-        question: "Which  pandemic affected most parts of the world and led to the loss of many lives?",
+        question: "Which of the following is not among the three arms of the government of Kenya?",
         answers: [
             { text: "Covid-19", correct: true},
             { text: "Small pox", correct: false},
