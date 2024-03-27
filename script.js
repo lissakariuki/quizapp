@@ -146,7 +146,7 @@ const questions = [
     {
         question: "Which of the following is not among the Major lakes in the country?",
         answers: [
-            { text: "Executive", correct: },
+            { text: "Lake Naivasha", correct: },
             { text: "Legislature", correct: },
             { text: "Parliament", correct: },
             { text: "Judiciary", correct: },
