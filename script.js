@@ -139,7 +139,7 @@ const questions = [
         answers: [
             { text: "", correct: },
             { text: "", correct: },
-            { text: "Terrorism", correct: false},
+            { text: "", correct: false},
             { text: "Malaria", correct: false},
         ]
     },
