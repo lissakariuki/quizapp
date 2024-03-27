@@ -143,6 +143,15 @@ const questions = [
             { text: "Judiciary", correct: },
         ]
     },
+    {
+        question: "Which of the following  is not among the three arms of the government of Kenya?",
+        answers: [
+            { text: "Executive", correct: },
+            { text: "Legislature", correct: },
+            { text: "Parliament", correct: },
+            { text: "Judiciary", correct: },
+        ]
+    },
 ];
 
 const questionElement = document.getElementById("question");
