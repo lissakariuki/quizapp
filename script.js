@@ -137,7 +137,7 @@ const questions = [
     {
         question: "Which of the following is not among the three arms of the government of Kenya?",
         answers: [
-            { text: "Covid-19", correct: true},
+            { text: "", correct: true},
             { text: "Small pox", correct: false},
             { text: "Terrorism", correct: false},
             { text: "Malaria", correct: false},
