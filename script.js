@@ -149,7 +149,7 @@ const questions = [
             { text: "Lake Naivasha", correct: false},
             { text: "Lake Elementaita", correct: },
             { text: "Parliament", correct: },
-            { text: "Judiciary", correct: },
+            { text: "Lake Nakuru", correct: },
         ]
     },
 ];
