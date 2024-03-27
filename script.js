@@ -130,7 +130,7 @@ const questions = [
         answers: [
             { text: "Covid-19", correct: true},
             { text: "Small pox", correct: false},
-            { text: "Terrorism", correct: false},
+            { text: "Tuberculosis", correct: false},
             { text: "Malaria", correct: false},
         ]
     },
