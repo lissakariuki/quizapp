@@ -134,6 +134,15 @@ const questions = [
             { text: "Malaria", correct: false},
         ]
     },
+    {
+        question: "Which  pandemic affected most parts of the world and led to the loss of many lives?",
+        answers: [
+            { text: "Covid-19", correct: true},
+            { text: "Small pox", correct: false},
+            { text: "Terrorism", correct: false},
+            { text: "Malaria", correct: false},
+        ]
+    },
 ];
 
 const questionElement = document.getElementById("question");
