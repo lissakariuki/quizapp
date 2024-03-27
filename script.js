@@ -137,10 +137,10 @@ const questions = [
     {
         question: "Which of the following is not among the three arms of the government of Kenya?",
         answers: [
+            { text: "Executive", correct: },
             { text: "", correct: },
             { text: "", correct: },
             { text: "", correct: },
-            { text: "", correct:},
         ]
     },
 ];
