@@ -144,6 +144,15 @@ const questions = [
         ]
     },
     {
+        question: ?",
+        answers: [
+            { text: "Executive", correct: false},
+            { text: "Legislature", correct: false},
+            { text: "Parliament", correct: true},
+            { text: "Judiciary", correct: false},
+        ]
+    },
+    {
         question: "Which of the following is not among the Major lakes in the country?",
         answers: [
             { text: "Lake Naivasha", correct: false},
