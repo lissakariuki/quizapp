@@ -144,7 +144,7 @@ const questions = [
         ]
     },
     {
-        question: "Which of the?",
+        question: "Which of the following is a popular dish in Kenya?",
         answers: [
             { text: "Executive", correct: false},
             { text: "Legislature", correct: false},
