@@ -148,8 +148,8 @@ const questions = [
         answers: [
             { text: "Githeri", correct: false},
             { text: "Mukimo", correct: false},
-            { text: "Parliament", correct: true},
-            { text: "Judiciary", correct: false},
+            { text: "Mbocho", correct: true},
+            { text: "mojito", correct: false},
         ]
     },
     {
