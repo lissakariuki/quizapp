@@ -149,7 +149,7 @@ const questions = [
             { text: "Githeri", correct: false},
             { text: "Mukimo", correct: false},
             { text: "Mbocho", correct: false},
-            { text: "mojito", correct: false},
+            { text: "mojito", correct: true},
         ]
     },
     {
