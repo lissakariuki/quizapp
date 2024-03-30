@@ -144,10 +144,10 @@ const questions = [
         ]
     },
     {
-        question: "Which of the following is a popular dish in Kenya?",
+        question: "Which of the following is not a popular dish in Kenya?",
         answers: [
             { text: "Githeri", correct: false},
-            { text: "Legislature", correct: false},
+            { text: "Mukimo", correct: false},
             { text: "Parliament", correct: true},
             { text: "Judiciary", correct: false},
         ]
