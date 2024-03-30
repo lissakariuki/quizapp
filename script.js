@@ -146,7 +146,7 @@ const questions = [
     {
         question: "Which of the following is a popular dish in Kenya?",
         answers: [
-            { text: "Executive", correct: false},
+            { text: "Githeri", correct: false},
             { text: "Legislature", correct: false},
             { text: "Parliament", correct: true},
             { text: "Judiciary", correct: false},
