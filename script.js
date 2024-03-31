@@ -166,7 +166,7 @@ const questions = [
         answers: [
             { text: "Supreme Court", correct: true},
             { text: "High Court", correct: false},
-            { text: "Lake Malawi", correct: true},
+            { text: "Law Court", correct: true},
             { text: "Lake Victoria", correct: false},
         ]
     },
