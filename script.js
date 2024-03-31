@@ -161,6 +161,15 @@ const questions = [
             { text: "Lake Victoria", correct: false},
         ]
     },
+    {
+        question: "Which of the following is not among the Major lakes in the country?",
+        answers: [
+            { text: "Lake Naivasha", correct: false},
+            { text: "Lake Elementaita", correct: false},
+            { text: "Lake Malawi", correct: true},
+            { text: "Lake Victoria", correct: false},
+        ]
+    },
 ];
 
 const questionElement = document.getElementById("question");
