@@ -164,7 +164,7 @@ const questions = [
     {
         question: "Which of the following is the highest court in the country Kenya?",
         answers: [
-            { text: "Lake Naivasha", correct: false},
+            { text: "Supreme Court", correct: false},
             { text: "Lake Elementaita", correct: false},
             { text: "Lake Malawi", correct: true},
             { text: "Lake Victoria", correct: false},
