@@ -162,12 +162,12 @@ const questions = [
         ]
     },
     {
-        question: "Which of the following is the highest court in the country Kenya?",
+        question: "Which of the following is not among the Superior court in the country Kenya?",
         answers: [
             { text: "Supreme Court", correct: true},
             { text: "High Court", correct: false},
             { text: "Land Court", correct: true},
-            { text: "Labour Court", correct: false},
+            { text: "Labour Relations Court", correct: false},
         ]
     },
 ];
