@@ -167,7 +167,7 @@ const questions = [
             { text: "Supreme Court", correct: true},
             { text: "High Court", correct: false},
             { text: "Land Court", correct: true},
-            { text: "Municipal Court", correct: false},
+            { text: "Labour Court", correct: false},
         ]
     },
 ];
