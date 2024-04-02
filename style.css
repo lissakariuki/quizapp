@@ -17,7 +17,7 @@ body{
 }
 .app h1{
     font-weight: 25px;
-    color: #ffff ;
+    color: #aae917 ;
     font-weight: 600;
     border-bottom: 1px solid ;
     padding-bottom: 30px;    
@@ -27,7 +27,7 @@ body{
 }
 .quiz h2{
     font-size: 18px;
-    color:#fff;
+    color:#ce8a14;
     font-weight: 600;
 }
 .btn{
