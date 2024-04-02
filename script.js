@@ -162,7 +162,7 @@ const questions = [
         ]
     },
     {
-        question: "Which of the following is not among the Superior court in the country Kenya?",
+        question: "Which of the following is not among the Superior courts in the country Kenya?",
         answers: [
             { text: "Supreme Court", correct: true},
             { text: "High Court", correct: false},
