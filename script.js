@@ -170,6 +170,9 @@ const questions = [
             { text: "Labour Relations Court", correct: false},
         ]
     },
+    {
+        question: "What is the ma"
+    }
 ];
 
 const questionElement = document.getElementById("question");
