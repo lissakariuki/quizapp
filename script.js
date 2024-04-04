@@ -171,9 +171,9 @@ const questions = [
         ]
     },
     {
-        question: "What is the main reason?",
+        question: "how many counties does Kenya have?",
         answers: [
-            {},
+            {text: "45"},
         ]
     }
 ];
