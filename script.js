@@ -176,7 +176,7 @@ const questions = [
             {text: "45", correct: false},
             {text: "42", correct: false},
             {text:"40", correct: true},
-            {}
+            {text:"",correct:},
         ]
     }
 ];
