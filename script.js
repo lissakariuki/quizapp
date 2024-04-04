@@ -171,7 +171,7 @@ const questions = [
         ]
     },
     {
-        question: "What is the ma",
+        question: "What is the main reason?",
         answers: [
             {},
         ]
