@@ -153,7 +153,7 @@ const questions = [
         ]
     },
     {
-        question: "Which of the following is not among the Major lakes in the country?",
+        question: "Which of the following is not among the Major lakes in Kenya?",
         answers: [
             { text: "Lake Naivasha", correct: false},
             { text: "Lake Elementaita", correct: false},
@@ -175,7 +175,7 @@ const questions = [
         answers: [
             {text: "45", correct: false},
             {text: "42", correct: false},
-            {text:"40", correct: false},
+            {text:"48", correct: false},
             {text:"47",correct:true},
         ]
     }
