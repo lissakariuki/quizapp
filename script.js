@@ -178,6 +178,7 @@ const questions = [
             {text:"48", correct: false},
             {text:"47",correct:true},
             //add scores  to keep track of score for each player.
+            //if wrong show/display the correct answer
         ]
     }
 ];
