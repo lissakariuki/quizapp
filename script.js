@@ -177,7 +177,7 @@ const questions = [
             {text: "42", correct: false},
             {text:"48", correct: false},
             {text:"47",correct:true},
-            //add scores  to keep track of score for each player.
+            //add scores to keep track of the score for each player.
             //if wrong show/display the correct answer
         ]
     }
