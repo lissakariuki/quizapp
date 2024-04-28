@@ -171,7 +171,7 @@ const questions = [
         ]
     },
     {
-        question: "How many counties does Kenya have?",
+        question: "How many counties are there in Kenya?",
         answers: [
             {text: "45", correct: false},
             {text: "42", correct: false},
