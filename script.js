@@ -174,7 +174,7 @@ const questions = [
         question: "How many counties are there in Kenya?",
         answers: [
             {text: "45", correct: false},
-            {text: "42", correct: false},
+            {text: "44", correct: false},
             {text:"48", correct: false},
             {text:"47",correct:true},
             //add scores to keep track of the score for each player.
