@@ -156,7 +156,7 @@ const questions = [
         question: "Which of the following is not among the Major lakes in Kenya?",
         answers: [
             { text: "Lake Naivasha", correct: false},
-            { text: "Lake Elementaita", correct: false},
+            { text: "Lake Malawi", correct: false},
             { text: "Lake Bogoria", correct: true},
             { text: "Lake Victoria", correct: false},
         ]
