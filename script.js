@@ -182,12 +182,12 @@ const questions = [
         ]
     }
     {
-        question: "What is the approximate population of Kenya?",
+        question: "What is the approximate population of people living in Kenya?",
         answers: [
             {text: "54 Million", correct: false},
             {text: "74 Million", correct: false},
             {text:"48 Million", correct: false},
-            {text:"47",correct:true},
+            {text:"57 Million",correct:true},
             
         ]
     }
