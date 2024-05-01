@@ -177,10 +177,9 @@ const questions = [
             {text: "44", correct: false},
             {text:"48", correct: false},
             {text:"47",correct:true},
-            //add scores to keep track of the score for each player.
-            //if wrong show/display the correct answer
+           
         ]
-    }
+    },
     {
         question: "What is the approximate population of people living in Kenya?",
         answers: [
@@ -190,7 +189,8 @@ const questions = [
             {text:"57 Million",correct:true},
             
         ]
-    }
+    }, //add scores to keep track of the score for each player.
+    //if wrong show/display the correct answer
 ];
 
 const questionElement = document.getElementById("question");
