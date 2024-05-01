@@ -182,7 +182,7 @@ const questions = [
         ]
     }
     {
-        question: "How many counties are there in Kenya?",
+        question: "What is the approximate number?",
         answers: [
             {text: "45", correct: false},
             {text: "44", correct: false},
