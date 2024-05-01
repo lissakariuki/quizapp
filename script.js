@@ -182,7 +182,7 @@ const questions = [
         ]
     }
     {
-        question: "What is the approximate number?",
+        question: "What is the approximate population of Kenya?",
         answers: [
             {text: "45", correct: false},
             {text: "44", correct: false},
