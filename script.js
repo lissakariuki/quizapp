@@ -181,6 +181,16 @@ const questions = [
             //if wrong show/display the correct answer
         ]
     }
+    {
+        question: "How many counties are there in Kenya?",
+        answers: [
+            {text: "45", correct: false},
+            {text: "44", correct: false},
+            {text:"48", correct: false},
+            {text:"47",correct:true},
+            
+        ]
+    }
 ];
 
 const questionElement = document.getElementById("question");
