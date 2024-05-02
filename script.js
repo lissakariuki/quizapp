@@ -196,8 +196,8 @@ const questions = [
         answers: [
             {text: "Nairobi", correct: false},
             {text: "Mombasa", correct: false},
-            {text:"Nakuru", correct: false},
-            {text:"57 Million",correct:true},
+            {text: "Nakuru", correct: false},
+            {text: "Machakos",correct:},
             
         ]
     },
