@@ -193,8 +193,8 @@ const questions = [
     //if wrong show/display the correct answer
     {
         question: "What is the  capital city of Kenya?",
-        answers: [s: [
-            {text: "54 Million", correct: false},
+        answers: [
+            {text: "Nairobi", correct: false},
             {text: "74 Million", correct: false},
             {text:"48 Million", correct: false},
             {text:"57 Million",correct:true},
