@@ -189,18 +189,18 @@ const questions = [
             {text:"57 Million",correct:true},
             
         ]
-    }, //add scores to keep track of the score for each player.
-    //if wrong show/display the correct answer
+    }, 
     {
         question: "What is the  capital city of Kenya?",
         answers: [
-            {text: "Nairobi", correct: false},
+            {text: "Nairobi", correct: true},
             {text: "Mombasa", correct: false},
             {text: "Nakuru", correct: false},
-            {text: "Machakos",correct:},
+            {text: "Machakos",correct: false},
             
         ]
-    },
+    }, //add scores to keep track of the score for each player.
+    //if wrong show/display the correct answer
 ];
 
 const questionElement = document.getElementById("question");
