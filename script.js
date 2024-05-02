@@ -191,7 +191,7 @@ const questions = [
         ]
     }, 
     {
-        question: "What is the  capital city of Kenya?",
+        question: "What is the capital city of Kenya?",
         answers: [
             {text: "Nairobi", correct: true},
             {text: "Mombasa", correct: false},
