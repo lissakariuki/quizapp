@@ -196,8 +196,7 @@ const questions = [
             {text: "Nairobi", correct: true},
             {text: "Mombasa", correct: false},
             {text: "Nakuru", correct: false},
-            {text: "Machakos",correct: false},
-            
+            {text: "Machakos",correct: false}, 
         ]
     }, //add scores to keep track of the score for each player.
     //if wrong show/display the correct answer
