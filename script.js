@@ -185,7 +185,7 @@ const questions = [
         answers: [
             {text: "54 Million", correct: false},
             {text: "74 Million", correct: false},
-            {text: "50 Million", correct: false},
+            {text: "51 Million", correct: false},
             {text: "58 Million", correct: true},
             
         ]
