@@ -175,8 +175,8 @@ const questions = [
         answers: [
             {text: "45", correct: false},
             {text: "42", correct: false},
-            {text:"49", correct: false},
-            {text:"47",correct:true},
+            {text: "49", correct: false},
+            {text: "47",correct:true},
            
         ]
     },
