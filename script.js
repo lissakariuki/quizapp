@@ -184,8 +184,8 @@ const questions = [
         question: "What is the approximate population of the people living in Kenya?",
         answers: [
             {text: "54 Million", correct: false},
-            {text: "74 Million", correct: false},
-            {text: "51 Million", correct: false},
+            {text: "78 Million", correct: false},
+            {text: "57 Million", correct: false},
             {text: "58 Million", correct: true},
             
         ]
