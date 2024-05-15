@@ -195,7 +195,7 @@ const questions = [
         answers: [
             {text: "Nairobi", correct: true},
             {text: "Kericho", correct: false},
-            {text: "Kiambu", correct: false},
+            {text: "Nakuru", correct: false},
             {text: "Naivasha",correct: false}, 
         ]
     }, //add scores to keep track of the score for each player.
