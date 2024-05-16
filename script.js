@@ -202,7 +202,7 @@ const questions = [
     {
         question: "When was the standard guage raliway constructed in Kenya?",
         answers: [
-            {text: "2003", correct: true},
+            {text: "2020", correct: true},
             {text: "2022", correct: false},
             {text: "2023", correct: false},
             {text: "2021",correct: false}, 
