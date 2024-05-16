@@ -198,7 +198,16 @@ const questions = [
             {text: "Nakuru", correct: false},
             {text: "Naivasha",correct: false}, 
         ]
-    }, //add scores to keep track of the score for each player.
+    },
+    {
+        question: "When was the standard guage raliway constructed in Kenya?",
+        answers: [
+            {text: "2003", correct: true},
+            {text: "2022", correct: false},
+            {text: "2023", correct: false},
+            {text: "2021",correct: false}, 
+        ]
+         } //add scores to keep track of the score for each player.
     //if wrong show/display the correct answer
 ];
 
