@@ -194,7 +194,7 @@ const questions = [
         question: "What is the capital city of Kenya?",
         answers: [
             {text: "Nairobi", correct: true},
-            {text: "Kericho", correct: false},
+            {text: "Mombasa", correct: false},
             {text: "Nakuru", correct: false},
             {text: "Naivasha",correct: false}, 
         ]
