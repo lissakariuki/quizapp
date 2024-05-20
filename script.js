@@ -200,7 +200,7 @@ const questions = [
         ]
     },
     {
-        question: "When was the standard guage raliway finally completed in Kenya?",
+        question: "When was the Standard guage raliway finally completed in Kenya?",
         answers: [
             {text: "2020", correct: true},
             {text: "2022", correct: false},
