@@ -204,7 +204,7 @@ const questions = [
         answers: [
             {text: "2020", correct: true},
             {text: "2022", correct: false},
-            {text: "2023", correct: false},
+            {text: "2025", correct: false},
             {text: "2021",correct: false}, 
         ]
          } //add scores to keep track of the score for each player.
