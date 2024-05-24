@@ -209,6 +209,7 @@ const questions = [
         ]
          } //add scores to keep track of the score for each player.
     //if wrong show/display the correct answer
+    //look for hosting sites to host my application
 ];
 question: "When was the standard guage raliway finally completed in Kenya?",
 answers: [
