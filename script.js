@@ -209,6 +209,7 @@ const questions = [
         ]
          } //add scores to keep track of the score for each player.
     //if wrong show/display the correct answer
+    //make it interesting
     //look for hosting sites to host my application
 ];
 
