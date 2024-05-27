@@ -214,7 +214,7 @@ const questions = [
 ];
 
 {
-        question: "When was the standard guage raliway finally completed in Kenya?",
+        question: "After how long are general elections carried out in Kenya?",
         answers: [
             {text: "2020", correct: true},
             {text: "2022", correct: false},
