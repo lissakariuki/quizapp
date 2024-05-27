@@ -218,7 +218,7 @@ const questions = [
         answers: [
             {text: "5 years", correct: true},
             {text: "10 years", correct: false},
-            {text: "2023", correct: false},
+            {text: "2 years", correct: false},
             {text: "2021",correct: false}, 
 ]};
   //add scores to keep track of the score for each player.
