@@ -217,7 +217,7 @@ const questions = [
         question: "After how long are general elections carried out in Kenya?",
         answers: [
             {text: "5 years", correct: true},
-            {text: "2022", correct: false},
+            {text: "10 years", correct: false},
             {text: "2023", correct: false},
             {text: "2021",correct: false}, 
 ]};
