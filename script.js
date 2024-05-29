@@ -215,10 +215,10 @@ const questions = [
 
 {
         question: "After how long are general elections carried out in Kenya?",
-        answers: [
+        answers; [
             {text: "5 years", correct: true},
             {text: "10 years", correct: false},
-            {text: "2 years", correct: false},
+            {text: "3 years", correct: false},
             {text: "15 years",correct: false}, 
 ]};
   //add scores to keep track of the score for each player.
