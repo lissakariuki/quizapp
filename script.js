@@ -211,8 +211,7 @@ const questions = [
     //if wrong show/display the correct answer
     //make it interesting
     //look for hosting sites to host my application
-];
-
+    //mobile app
 {
         question: "After how long are general elections carried out in Kenya?",
         answers; [
