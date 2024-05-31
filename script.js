@@ -212,6 +212,8 @@ const questions = [
     //make it interesting
     //look for hosting sites to host my application
     //mobile app
+    //add a timer
+    
 {
         question: "After how long are general elections carried out in Kenya?",
         answers; [
