@@ -207,7 +207,7 @@ const questions = [
             {text: "2025", correct: false},
             {text: "2019",correct: false}, 
         ]
-         } //add scores to keep track of the score for each player.
+         }, //add scores to keep track of the score for each player.
     //if wrong show/display the correct answer
     //make it interesting
     //look for hosting sites to host my application
@@ -217,14 +217,14 @@ const questions = [
     
 {
         question: "After how long are general elections carried out in Kenya?",
-        answers; [
+        answers: [
             {text: "5 years", correct: true},
             {text: "10 years", correct: false},
             {text: "3 years", correct: false},
             {text: "15 years",correct: false}, 
 ]};
   //add scores to keep track of the score for each player.
-//if wrong show/display the correct answer
+//if wrong show/display the correct answe
 
 
 const questionElement = document.getElementById("question");
