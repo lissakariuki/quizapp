@@ -224,7 +224,8 @@ const questions = [
             {text: "15 years",correct: false}, 
 ]};
   //add scores to keep track of the score for each player.
-//if wrong show/display the correct answe
+//if wrong show/display the correct answer
+//enable one to choose player name if they want
 
 
 const questionElement = document.getElementById("question");
