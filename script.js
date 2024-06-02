@@ -213,6 +213,7 @@ const questions = [
     //look for hosting sites to host my application
     //mobile app
     //add a timer
+    //SHOW TOTAL SCORE
     
 {
         question: "After how long are general elections carried out in Kenya?",
