@@ -225,7 +225,7 @@ const questions = [
 ]};
   //add scores to keep track of the score for each player.
 //if wrong show/display the correct answer
-//enable one to choose player name if they want
+//enable one to choose player name if they please
 
 
 const questionElement = document.getElementById("question");
