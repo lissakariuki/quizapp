@@ -216,7 +216,7 @@ const questions = [
     //SHOW TOTAL SCORE
     
 {
-        question: "After how long are general elections carried out in Kenya?",
+        question: "After how long are general elections held in Kenya?",
         answers: [
             {text: "5 years", correct: true},
             {text: "10 years", correct: false},
