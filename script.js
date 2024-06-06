@@ -212,7 +212,7 @@ const questions = [
     //make it interesting
     //look for hosting sites to host my application
     //mobile app
-    //add a timer
+    //add a timer 5seconds max
     //SHOW TOTAL SCORE
     
 {
