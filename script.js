@@ -213,6 +213,7 @@ const questions = [
     //look for hosting sites to host my application
     //mobile app
     //add a timer 5seconds max
+    //allow users to type out their preffered name
     //SHOW TOTAL SCORE
     
 {
