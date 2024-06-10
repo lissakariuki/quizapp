@@ -215,6 +215,7 @@ const questions = [
     //add a timer 5seconds max
     //allow users to type out their preffered name
     //SHOW TOTAL SCORE
+    //congratulations pop up when one gets it ryt
     
 {
         question: "After how long are general elections held in Kenya?",
