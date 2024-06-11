@@ -213,7 +213,7 @@ const questions = [
     //color blending
     //aesthetic interface
     //look for hosting sites to host my application
-    //mobile app
+    //mobile app if android studio will be cool
     //add a timer 5seconds max
     //allow users to type out their preffered name
     //SHOW TOTAL SCORE
