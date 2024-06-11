@@ -217,6 +217,7 @@ const questions = [
     //add a timer 5seconds max
     //allow users to type out their preffered name
     //SHOW TOTAL SCORE
+    //cool designing features
     //congratulations pop up when one gets it right
     
 {
