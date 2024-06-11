@@ -210,6 +210,7 @@ const questions = [
          }, //add scores to keep track of the score for each player.
     //if wrong show/display the correct answer
     //make it interesting
+    //color blending
     //look for hosting sites to host my application
     //mobile app
     //add a timer 5seconds max
