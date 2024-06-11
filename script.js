@@ -211,6 +211,7 @@ const questions = [
     //if wrong show/display the correct answer
     //make it interesting
     //color blending
+    //aesthetic interface
     //look for hosting sites to host my application
     //mobile app
     //add a timer 5seconds max
