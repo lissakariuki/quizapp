@@ -209,7 +209,7 @@ const questions = [
         ]
          }, //add scores to keep track of the score for each player.
     //if wrong show/display the correct answer
-    //make it interesting
+    //make it interesting and user friendly
     //color blending hence use of the different color schemes
     //aesthetic interface
     //look for hosting sites to host my application
