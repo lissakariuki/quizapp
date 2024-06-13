@@ -212,6 +212,7 @@ const questions = [
     //make it interesting and user friendly
     //color blending hence use of the different color schemes
     //aesthetic interface
+    //allow followers
     //look for hosting sites to host my application
     //mobile app if android studio will be cool
     //add a timer 5seconds max
