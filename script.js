@@ -214,7 +214,7 @@ const questions = [
     //aesthetic interface
     //allow people to follow you.
     //look for hosting sites to host my application
-    //mobile app if android studio will be cool
+    //mobile app if android studio will be okay to use.
     //add a timer 5seconds max
     //allow users to type out their preffered name
     //SHOW TOTAL SCORE
