@@ -215,7 +215,7 @@ const questions = [
     //allow people to follow you.
     //look for hosting sites to host my application
     //mobile app if android studio will be okay to use.
-    //add a timer 5seconds max
+    //add a timer 5seconds to 10seconds max 
     //conclusion to be done by end of June
     //allow users to type out their preffered name
     //SHOW TOTAL SCORE
