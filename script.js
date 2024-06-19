@@ -219,7 +219,7 @@ const questions = [
     //conclusion to be done by end of June
     //allow users to type out their preffered name
     //SHOW TOTAL SCORE
-    //cool designing features
+    //cool designing features to enrich user experience.
     //congratulations pop up when one gets it right
     
 {
