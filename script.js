@@ -211,14 +211,15 @@ const questions = [
     //if wrong show/display the correct answer
     //make it interesting and user friendly
     //color blending hence use of the different color schemes
-    //aesthetic interface
+    //aesthetic user-interface
     //allow people to follow you.
     //look for hosting sites to host my application
     //mobile app if android studio will be okay to use.
-    //add a timer 5seconds to 10seconds max 
+    //add a timer 5 seconds to 10seconds max 
     //conclusion to be done by end of June
     //allow users to type out their preffered name
     //SHOW TOTAL SCORE
+
     //cool designing features to enrich user experience.
     //congratulations pop up when one gets it right
     
