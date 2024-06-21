@@ -211,7 +211,7 @@ const questions = [
     //if wrong show/display the correct answer
     //make it interesting and user friendly
     //color blending hence use of the different color schemes
-    //aesthetic user-interface
+    //aesthetic user-interface for enriched user experience
     //allow people to follow you.
     //look for hosting sites to host my application
     //mobile app if android studio will be okay to use.
