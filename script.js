@@ -222,7 +222,7 @@ const questions = [
 
     //cool designing features to enrich user experience.
     //congratulations pop up when one gets it right
-    
+    //check on whether login/ logout should be included
 {
         question: "After how long are general elections held in Kenya?",
         answers: [
