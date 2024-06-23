@@ -218,7 +218,7 @@ const questions = [
     //add a timer 5 seconds to 10seconds max 
     //conclusion to be done by end of June
     //allow users to type out their preffered name
-    //SHOW TOTAL SCORE
+    //SHOW TOTAL SCORE after the player has finished the test
 
     //cool designing features to enrich user experience.
     //congratulations pop up when one gets it right
