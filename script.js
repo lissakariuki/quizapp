@@ -220,7 +220,7 @@ const questions = [
     //allow users to type out their preffered name
     //SHOW TOTAL SCORE after the player has finished the test
     //24/06/2024
-    //25/06/24  the final
+    //25/06/24  the final commit since it needs to be hosted soon
 
     //cool designing features to enrich user experience.
     //congratulations pop up when one gets it right
