@@ -223,7 +223,7 @@ const questions = [
     //25/06/24  the final commit since it needs to be hosted soon.
 
     //cool designing features to enrich user experience.
-    //congratulations pop up when one gets a question right
+    //congratulations pop up when one gets a question right; colorful
     //check on whether login/ logout should be included
 {
         question: "After how long are general elections held in Kenya?",
