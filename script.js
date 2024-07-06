@@ -213,7 +213,7 @@ const questions = [
     //color blending hence use of the different color schemes
     //aesthetic user-interface for enriched user experience
     //allow people to follow you.
-    //look for hosting sites to host my application
+    //look for hosting sites to host my application.
     //mobile app if android studio will be perfect to use.
     //add a timer 5 seconds to 10seconds max for answering a question. 
     //conclusion to be done by end of June
