@@ -216,7 +216,7 @@ const questions = [
     //look for hosting sites to host my application.
     //mobile app if android studio will be perfect to use.
     //add a timer 5 seconds to 10seconds max for answering a question. 
-    //conclusion to be done by end of June
+    //conclusion to be done by end of July 2024
     //allow users to type out their preffered name
     //SHOW TOTAL SCORE after the player has finished the test
     //24/06/2024
