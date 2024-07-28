@@ -221,7 +221,7 @@ const questions = [
     //SHOW TOTAL SCORE after the player has finished the test
     //24/06/2024
     //25/06/2024 
-    //final phase
+    //final phase end of year
     // the final commit since it needs to be hosted soon.
 
     //cool designing features to enrich user experience.
